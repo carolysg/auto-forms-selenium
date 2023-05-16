@@ -15,8 +15,5 @@ Este repositório contém projetos de automação web utilizando Selenium.
    
    Ou seja, o programa só finaliza quando consegue utilizar o username "standard_user" e finalizar a compra. A quantidade de itens a serem adicionados no carrinho é escolhida de forma aleatória, e os itens a serem escolhidos também.
 
-1. Site: https://phptravels.net/ \
-   Simulação de viagem.
-
 2. Site: https://demoqa.com/ \
    Testes de diferentes elementos.
